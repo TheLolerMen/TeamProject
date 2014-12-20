@@ -7,6 +7,7 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\sp_Test_dirt</sprite>
+    <sprite>sprites\Lol_poop</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
