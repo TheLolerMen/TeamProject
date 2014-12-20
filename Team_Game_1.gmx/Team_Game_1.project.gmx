@@ -9,6 +9,7 @@
     <sprite>sprites\sp_Test_dirt</sprite>
     <sprite>sprites\Lol_poop</sprite>
     <sprite>sprites\sprite2</sprite>
+    <sprite>sprites\sprite3</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
